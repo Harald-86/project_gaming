@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Project Gaming
+
+This project is a gaming themed webproject for me and my self only to learn React better.
+
+# React app gaming project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
